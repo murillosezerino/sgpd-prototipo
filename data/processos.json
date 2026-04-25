@@ -1,0 +1,152 @@
+[
+  {
+    "id": "2026-000128",
+    "titulo": "Solicitação de reembolso médico",
+    "categoria": "Recursos Humanos",
+    "descricao": "Solicitação de reembolso de despesas médicas referentes a consulta cardiológica realizada em 18/04/2026, conforme comprovantes anexados.",
+    "status": "Em análise",
+    "statusCor": "warning",
+    "prioridade": "Normal",
+    "dataAbertura": "22/04/2026",
+    "horaAbertura": "09:23",
+    "solicitante": "Muh Silva",
+    "setorAtual": "Recursos Humanos",
+    "setorOrigem": "Tecnologia",
+    "anexos": [
+      { "nome": "comprovante_consulta.pdf", "tamanho": "2.30 MB", "tipo": "PDF" },
+      { "nome": "recibo_pagamento.jpg", "tamanho": "850 KB", "tipo": "JPG" }
+    ],
+    "historico": [
+      {
+        "data": "22/04/2026 09:23",
+        "evento": "Processo aberto",
+        "autor": "Muh Silva (Solicitante)",
+        "detalhe": "Processo registrado no sistema com status inicial 'Em análise'. Encaminhado automaticamente ao setor de Recursos Humanos."
+      },
+      {
+        "data": "23/04/2026 14:08",
+        "evento": "Encaminhado para análise técnica",
+        "autor": "João Silva (Analista RH)",
+        "detalhe": "Documentação verificada e processo encaminhado para a equipe de benefícios para validação dos comprovantes apresentados."
+      },
+      {
+        "data": "25/04/2026 11:45",
+        "evento": "Em análise técnica",
+        "autor": "Maria Santos (Analista de Benefícios)",
+        "detalhe": "Análise dos comprovantes em andamento. Previsão de parecer em até 3 dias úteis."
+      }
+    ]
+  },
+  {
+    "id": "2026-000115",
+    "titulo": "Solicitação de férias",
+    "categoria": "Recursos Humanos",
+    "descricao": "Solicitação de férias de 30 dias com início previsto para 15/06/2026.",
+    "status": "Aprovado",
+    "statusCor": "success",
+    "prioridade": "Normal",
+    "dataAbertura": "15/04/2026",
+    "horaAbertura": "10:15",
+    "solicitante": "Muh Silva",
+    "setorAtual": "Recursos Humanos",
+    "setorOrigem": "Tecnologia",
+    "anexos": [],
+    "historico": [
+      {
+        "data": "15/04/2026 10:15",
+        "evento": "Processo aberto",
+        "autor": "Muh Silva (Solicitante)",
+        "detalhe": "Solicitação registrada no sistema."
+      },
+      {
+        "data": "18/04/2026 16:30",
+        "evento": "Aprovado",
+        "autor": "Carlos Mendes (Gestor)",
+        "detalhe": "Período aprovado conforme calendário de férias do setor."
+      }
+    ]
+  },
+  {
+    "id": "2026-000098",
+    "titulo": "Compra de equipamento",
+    "categoria": "Compras",
+    "descricao": "Solicitação de compra de notebook para equipe de desenvolvimento.",
+    "status": "Tramitando",
+    "statusCor": "info",
+    "prioridade": "Alta",
+    "dataAbertura": "10/04/2026",
+    "horaAbertura": "08:00",
+    "solicitante": "Muh Silva",
+    "setorAtual": "Compras",
+    "setorOrigem": "Tecnologia",
+    "anexos": [
+      { "nome": "orcamento_dell.pdf", "tamanho": "1.20 MB", "tipo": "PDF" }
+    ],
+    "historico": [
+      {
+        "data": "10/04/2026 08:00",
+        "evento": "Processo aberto",
+        "autor": "Muh Silva (Solicitante)",
+        "detalhe": "Solicitação de compra com orçamento anexado."
+      },
+      {
+        "data": "12/04/2026 11:00",
+        "evento": "Encaminhado para Compras",
+        "autor": "Sistema",
+        "detalhe": "Tramitação automática ao setor responsável."
+      }
+    ]
+  },
+  {
+    "id": "2026-000087",
+    "titulo": "Reajuste salarial",
+    "categoria": "Recursos Humanos",
+    "descricao": "Solicitação de revisão salarial após avaliação de desempenho.",
+    "status": "Em parecer",
+    "statusCor": "purple",
+    "prioridade": "Normal",
+    "dataAbertura": "05/04/2026",
+    "horaAbertura": "14:20",
+    "solicitante": "Muh Silva",
+    "setorAtual": "Gerência de RH",
+    "setorOrigem": "Recursos Humanos",
+    "anexos": [],
+    "historico": [
+      {
+        "data": "05/04/2026 14:20",
+        "evento": "Processo aberto",
+        "autor": "Muh Silva (Solicitante)",
+        "detalhe": "Solicitação registrada para análise de gestão."
+      }
+    ]
+  },
+  {
+    "id": "2026-000071",
+    "titulo": "Inscrição em treinamento",
+    "categoria": "Capacitação",
+    "descricao": "Inscrição em curso de especialização em Cloud Computing.",
+    "status": "Aprovado",
+    "statusCor": "success",
+    "prioridade": "Normal",
+    "dataAbertura": "01/04/2026",
+    "horaAbertura": "09:45",
+    "solicitante": "Muh Silva",
+    "setorAtual": "Capacitação",
+    "setorOrigem": "Tecnologia",
+    "anexos": [],
+    "historico": [
+      {
+        "data": "01/04/2026 09:45",
+        "evento": "Processo aberto",
+        "autor": "Muh Silva (Solicitante)",
+        "detalhe": "Inscrição registrada no sistema."
+      },
+      {
+        "data": "03/04/2026 11:20",
+        "evento": "Aprovado",
+        "autor": "Ana Costa (Gestora de Capacitação)",
+        "detalhe": "Inscrição aprovada conforme orçamento de treinamentos do setor."
+      }
+    ]
+  }
+]

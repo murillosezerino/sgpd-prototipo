@@ -1,0 +1,21 @@
+{
+  "categorias": [
+    "Recursos Humanos",
+    "Compras",
+    "Capacitação",
+    "Financeiro",
+    "Tecnologia",
+    "Jurídico"
+  ],
+  "setores": [
+    "Departamento de Recursos Humanos",
+    "Departamento Financeiro",
+    "Compras e Suprimentos",
+    "Tecnologia da Informação",
+    "Gerência Geral",
+    "Coordenação de Benefícios",
+    "Auditoria Interna",
+    "Capacitação e Treinamento"
+  ],
+  "prioridades": ["Normal", "Alta", "Urgente"]
+}

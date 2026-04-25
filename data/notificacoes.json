@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "Novo processo recebido",
+    "descricao": "Processo 2026-000131 aguarda sua análise no setor de Recursos Humanos",
+    "tempo": "5 min atrás",
+    "tipo": "info",
+    "icone": "📨",
+    "lida": false,
+    "processoRef": "2026-000128"
+  },
+  {
+    "id": 2,
+    "titulo": "Processo aprovado",
+    "descricao": "Sua solicitação 2026-000115 foi aprovada pelo gestor responsável",
+    "tempo": "2 horas atrás",
+    "tipo": "success",
+    "icone": "✓",
+    "lida": false,
+    "processoRef": "2026-000115"
+  },
+  {
+    "id": 3,
+    "titulo": "Prazo próximo do vencimento",
+    "descricao": "Processo 2026-000098 tem prazo de análise vencendo em 2 dias",
+    "tempo": "1 dia atrás",
+    "tipo": "warning",
+    "icone": "⚠",
+    "lida": false,
+    "processoRef": "2026-000098"
+  },
+  {
+    "id": 4,
+    "titulo": "Parecer registrado",
+    "descricao": "Analista João Silva emitiu parecer no processo 2026-000128",
+    "tempo": "3 dias atrás",
+    "tipo": "info",
+    "icone": "📝",
+    "lida": true,
+    "processoRef": "2026-000128"
+  },
+  {
+    "id": 5,
+    "titulo": "Processo arquivado",
+    "descricao": "Processo 2026-000071 foi arquivado após decisão final do gestor",
+    "tempo": "5 dias atrás",
+    "tipo": "purple",
+    "icone": "📦",
+    "lida": true,
+    "processoRef": "2026-000071"
+  },
+  {
+    "id": 6,
+    "titulo": "Tramitação realizada",
+    "descricao": "Seu processo 2026-000087 foi encaminhado para o Departamento Financeiro",
+    "tempo": "1 semana atrás",
+    "tipo": "info",
+    "icone": "🔄",
+    "lida": true,
+    "processoRef": "2026-000087"
+  }
+]
