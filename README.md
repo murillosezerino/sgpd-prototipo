@@ -80,4 +80,4 @@ Os fluxos do protótipo refletem os casos de uso "Abrir Processo" e "Tramitar Pr
 
 ## Autor
 
-Muh Silva — Engenharia de Software
+Murillo Sezerino — Engenharia de Software
